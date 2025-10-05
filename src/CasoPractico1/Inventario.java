@@ -138,12 +138,5 @@ public class Inventario {
         }
         return filtrados;
     }
-    
-    /*
-    // Metodos pendientes
-        
-        
-        
-        mostrarCategoriasDisponibles()
-    */
+
 }
